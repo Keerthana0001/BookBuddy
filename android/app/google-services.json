@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068184338252",
+    "project_id": "bookbuddy-2769e",
+    "storage_bucket": "bookbuddy-2769e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068184338252:android:de179cfa179176e2b059e9",
+        "android_client_info": {
+          "package_name": "com.example.bookbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068184338252-une4st6sr79kpfoi54umv1kg3j9fmnqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5xCx_yJCy-5JwbICTQ9qEBiaOuvFp0sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068184338252-une4st6sr79kpfoi54umv1kg3j9fmnqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
